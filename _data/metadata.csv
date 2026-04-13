@@ -1,0 +1,8 @@
+<!-- placeholder! we will need to put all of the info abt the images and objects here.  -->
+
+  id,title,creator,date,description,subject,format,identifier,source
+unravel001,"Cold War Propaganda Poster","US Department of Defense","1952","A psychological operations poster encouraging vigilance.","propaganda; psyops","image","unravel001.jpg","National Archives"
+unravel002,"Radio Broadcast Transcript","Voice of America","1963","Transcript of a broadcast aimed at countering Soviet messaging.","broadcast; transcript","text","unravel002.pdf","Library of Congress"
+unravel003,"Vietnam Leaflet","US Army Psychological Operations Group","1968","Leaflet dropped over rural areas encouraging defection.","leaflet; psyops","image","unravel003.jpg","US Army Heritage Center"
+
+<!-- images go assets/img, file has to match identifier, pdf audio or video go to assets/objects. -->
