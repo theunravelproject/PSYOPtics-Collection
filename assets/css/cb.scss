@@ -220,3 +220,33 @@ h2 {
 .btn:hover {
   background-color: #555 !important;
 }
+
+/* ===========================
+   FACET SIDEBAR NUKE FROM ORBIT
+   =========================== */
+
+/* Common CB-GH browse sidebar containers */
+.browse-sidebar,
+.browse-sidebar *,
+.facet,
+.facet *,
+.facets,
+.facets * {
+  color: #fff !important;
+}
+
+/* Make sure links in the sidebar are white too */
+.browse-sidebar a,
+.browse-sidebar a:visited,
+.facet a,
+.facet a:visited,
+.facets a,
+.facets a:visited {
+  color: #fff !important;
+}
+
+.browse-sidebar a:hover,
+.facet a:hover,
+.facets a:hover {
+  color: #007acc !important; /* your blue hover color */
+}
