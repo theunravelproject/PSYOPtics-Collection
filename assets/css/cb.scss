@@ -165,4 +165,41 @@ h2 {
   color: #007acc;
 }
 
+/* ===========================
+   DARK MODE COLLECTION CARDS
+   =========================== */
 
+.card,
+.card-body,
+.card-header,
+.card-footer {
+  background-color: #1a1a1a !important; /* dark grey */
+  color: #fff !important;               /* white text */
+  border: 1px solid #333 !important;    /* subtle border */
+}
+
+.table,
+.table th,
+.table td {
+  background-color: #1a1a1a !important;
+  color: #fff !important;
+  border-color: #333 !important;
+}
+
+.list-group-item {
+  background-color: #1a1a1a !important;
+  color: #fff !important;
+  border-color: #333 !important;
+}
+
+.btn,
+.btn-primary,
+.btn-secondary {
+  background-color: #333 !important;
+  color: #fff !important;
+  border: none !important;
+}
+
+.btn:hover {
+  background-color: #555 !important;
+}
