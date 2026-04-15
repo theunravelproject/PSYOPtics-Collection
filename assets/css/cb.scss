@@ -166,6 +166,23 @@ h2 {
 }
 
 /* ===========================
+   FACET SIDEBAR TEXT FIX
+   =========================== */
+
+.facet-title,
+.facet-item,
+.facet-item a,
+.facet-item label,
+.facet-item input,
+.facet-item span {
+  color: #fff !important;
+}
+
+.facet-item a:hover {
+  color: #007acc !important; /* your blue hover color */
+}
+
+/* ===========================
    DARK MODE COLLECTION CARDS
    =========================== */
 
