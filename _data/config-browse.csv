@@ -2,5 +2,5 @@ field,display_name,btn,hidden,sort_name
 filename,Image,,,
 date,Date,,,Date
 creator,Creator,,,
-subject,Subjects,true
-location,Location,true
+subject,,true,,
+location,,true,,
