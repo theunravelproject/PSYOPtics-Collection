@@ -1,0 +1,5 @@
+{% if item.filename %}
+<div class="text-center mb-4">
+  <img class="img-fluid" src="{{ '/objects/' | append: item.filename | relative_url }}" alt="{{ item.title }}">
+</div>
+{% endif %}
